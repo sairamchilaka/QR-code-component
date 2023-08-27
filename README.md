@@ -57,3 +57,5 @@ Coming to the styling we used the FLEX-BOX to fulfilling the requirements.
 By building the solution I have learned how to use the flex-box and its various styling attributes.
 
 And I have also learned how to use attractive styling like colors, borders, etc.
+
+I have also learned some of the best ways to create the flex-box and it also helped to improve my skills.
