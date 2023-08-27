@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - QR code component Solution
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
@@ -30,10 +30,30 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
+## Screenshot
+
+![image](https://github.com/sairamchilaka/QR-code-component/assets/90474499/0c8a0c70-dded-4e0c-bea4-97daa62380fa)
+
+## Link
+
+https://sairamchilaka.github.io/QR-code-component/
+
+## Languages Used:
+
+* HTML
+  
+* CSS
+  
 ## About the Solution
 
 Here, we use HTML and CSS because we are creating a static web page.
 
-As we need the structure we use HTML and CSS for the styling of the webpage.
+As the solution needs the structure we have used HTML and CSS for the styling of the webpage.
 
 Coming to the styling we used the FLEX-BOX to fulfilling the requirements.
+
+## What I have learned
+
+By building the solution I have learned how to use the flex-box and its various styling attributes.
+
+And I have also learned how to use attractive styling like colors, borders, etc.
