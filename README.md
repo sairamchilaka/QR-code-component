@@ -30,6 +30,14 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
+## About the Solution
+
+Here, we use HTML and CSS because we are creating a static web page.
+
+As the solution needs the structure we have used HTML and CSS for the styling of the webpage.
+
+Coming to the styling we used the FLEX-BOX to fulfilling the requirements.
+
 ## Screenshot
 
 ![image](https://github.com/sairamchilaka/QR-code-component/assets/90474499/0c8a0c70-dded-4e0c-bea4-97daa62380fa)
@@ -43,14 +51,6 @@ https://sairamchilaka.github.io/QR-code-component/
 * HTML
   
 * CSS
-  
-## About the Solution
-
-Here, we use HTML and CSS because we are creating a static web page.
-
-As the solution needs the structure we have used HTML and CSS for the styling of the webpage.
-
-Coming to the styling we used the FLEX-BOX to fulfilling the requirements.
 
 ## What I have learned
 
