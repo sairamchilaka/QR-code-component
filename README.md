@@ -33,5 +33,7 @@ There is also a `style-guide.md` file containing the information you'll need, su
 ## About the Solution
 
 Here, we use HTML and CSS because we are creating a static web page.
+
 As we need the structure we use HTML and CSS for the styling of the webpage.
+
 Coming to the styling we used the FLEX-BOX to fulfilling the requirements.
